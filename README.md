@@ -13,7 +13,7 @@ This project is a simple CHIP-8 emulator written in C++. The emulator is designe
 - Debugging information output to the console.
 
 ## How to Get Started
-- Install SDL.
+- Install SDL. https://wiki.libsdl.org/SDL2/Installation
 - Clone the repository into your local machine.
 - Build the project and run the EXE file or APP file with your preferred ROM file!
 
